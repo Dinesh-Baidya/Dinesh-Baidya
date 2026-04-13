@@ -8,7 +8,7 @@
 -  💻 Interested in **Machine Learning & Artificial Intelligence** <br/>
 - 💻 Currently working on **Deep Learning Project** <br/>
 - 📊 Learning **Data Science, ML, AI, and Algorithms** <br/>
-- 🌱 Currently improving my skills in **  Machine Learning & Deep Learning ** <br/>
+- 🌱 Currently improving my skills in **  Machine Learning & Deep Learning! ** <br/>
 - 🎯 Goal: Become a **Data Scientist / AI Engineer** <br/>
 
 
